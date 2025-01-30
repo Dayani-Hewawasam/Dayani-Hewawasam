@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Dayani-Hewawasam
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello, I'm Dayani Hewawasam! 👋  
 
-<!---
-Dayani-Hewawasam/Dayani-Hewawasam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 Welcome to My GitHub Profile!  
+
+I’m an undergraduate student at the **Faculty of Engineering, University of Ruhuna**, pursuing a degree in **Computer Engineering**. My passion lies in **frontend development**, where I focus on crafting intuitive, visually appealing, and user-friendly interfaces that enhance the overall user experience.  
+
+---
+
+## 🚀 What I’m Working On  
+
+I actively work on various projects, ranging from **web applications** to **mobile development**. My repositories showcase my journey in:  
+
+- **React & Tailwind CSS** – Creating modern and responsive UIs  
+- **Flutter** – Developing cross-platform mobile applications  
+- **MERN Stack** – Building full-stack web applications  
+
+If you're interested, feel free to check out my projects to see what I’ve been working on!  
+
+---
+
+## 🤝 Let’s Connect!  
+
+I’m always open to collaborating, sharing ideas, and learning from others. Feel free to reach out—let’s build something amazing together!  
+
+Thanks for stopping by, and happy coding! 🚀  
