@@ -22,4 +22,10 @@ If you're interested, feel free to check out my projects to see what I’ve been
 
 I’m always open to collaborating, sharing ideas, and learning from others. Feel free to reach out—let’s build something amazing together!  
 
+📧 Email: dayanihewawasam@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/dayani-hewawasam-33353128b/
+
+📁 GitHub: https://github.com/Dayani-Hewawasam/
+
 Thanks for stopping by, and happy coding! 🚀  
