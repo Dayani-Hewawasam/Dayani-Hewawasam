@@ -17,8 +17,15 @@ I actively work on various projects, ranging from **web applications** to **mobi
 If you're interested, feel free to check out my projects to see what I’ve been working on!  
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dayani-Hewawasam&show_icons=true&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dayani-Hewawasam&theme=github-dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dayani-Hewawasam&theme=darkhub)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayani-Hewawasam&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dayani-Hewawasam&theme=dark)
 
-## 🤝 Let’s Connect!  
+
+
+## 🤝 Reach me!  
 
 I’m always open to collaborating, sharing ideas, and learning from others. Feel free to reach out—let’s build something amazing together!  
 
