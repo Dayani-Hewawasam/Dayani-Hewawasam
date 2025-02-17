@@ -21,7 +21,8 @@ If you're interested, feel free to check out my projects to see what I’ve been
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dayani-Hewawasam&theme=github-dark)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Dayani-Hewawasam&theme=darkhub)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayani-Hewawasam&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dayani-Hewawasam&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dayani-Hewawasam&theme=dark)
+
 
 
 
