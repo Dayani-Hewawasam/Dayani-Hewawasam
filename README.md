@@ -2,7 +2,7 @@
 
 ## 🌟 Welcome to My GitHub Profile!  
 
-I’m an undergraduate student at the **Faculty of Engineering, University of Ruhuna**, pursuing a degree in **Computer Engineering**. My passion lies in **frontend development**, where I focus on crafting intuitive, visually appealing, and user-friendly interfaces that enhance the overall user experience.  
+I’m an undergraduate student at the **Faculty of Engineering, University of Ruhuna**, pursuing a degree in **Computer Engineering**. My passion lies in **fullstack development**, where I focus on crafting intuitive, visually appealing, and user-friendly interfaces that enhance the overall user experience.  
 
 ---
 
