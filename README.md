@@ -1,18 +1,10 @@
-# Hello, I'm Dayani Hewawasam! 👋  
+# Hi there , I'm Dayani Hewawasam! 👋  
 
-## 🌟 Welcome to My GitHub Profile!  
+🎓 I’m a **Data Science and Engineering Undergraduate** at the Faculty of Engineering, University of Ruhuna  
+🔭 Currently working on **Machine Learning, Data Science Projects**  
+🤖 Passionate about **Machine Learning and Data analysis**  
+💬 Ask me about **Python, JavaScript, ML frameworks, databases, and frontend technologies**  
 
-I’m an undergraduate student at the **Faculty of Engineering, University of Ruhuna**, pursuing a degree in **Computer Engineering**. My passion lies in **fullstack development**, where I focus on crafting intuitive, visually appealing, and user-friendly interfaces that enhance the overall user experience.  
-
----
-
-## 🚀 What I’m Working On  
-
-I actively work on various projects, ranging from **web applications** to **mobile development**. My repositories showcase my journey in:  
-
-- **React & Tailwind CSS** – Creating modern and responsive UIs  
-- **Flutter** – Developing cross-platform mobile applications  
-- **MERN Stack** – Building full-stack web applications  
 
 If you're interested, feel free to check out my projects to see what I’ve been working on!  
 
