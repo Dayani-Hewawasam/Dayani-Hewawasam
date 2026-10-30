@@ -1,6 +1,6 @@
 # Hi there , I'm Dayani Hewawasam! 👋  
 
-🎓 I’m a **Data Science and Engineering Undergraduate** at the Faculty of Engineering, University of Ruhuna  
+🎓 I’m a **Computer Engineering Undergraduate** at the Faculty of Engineering, University of Ruhuna  
 🔭 Currently working on **Machine Learning, Data Science Projects**  
 🤖 Passionate about **Machine Learning and Data analysis**  
 💬 Ask me about **Python, JavaScript, ML frameworks, databases, and frontend technologies**  
